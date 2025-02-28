@@ -393,7 +393,4 @@ restaurants	an	innovative	solution	to	enhance	customer	engagement,	while	providi
 visually	compelling	platform	to	showcase	dishes	and	drive	sales.	This	system	not	only	
 elevates	the	dining	experience	but	also	serves	as	a	valuable	marketing	tool	for	food	service	
 providers,	making	it	an	indispensable	addition	to	the	modern	restaurant	setting.	
-11. FIGURE OR DRAWING 
-Figures	illustrate	the	detachable	3D	projection	device	and	its	components,	including	the	
-projector,	microphone	array,	battery	module,	and	connectivity	ports.	The	integration	with	
-the	GrubOut	platform	is	shown	in	a	flow	diagram.	
+.	
