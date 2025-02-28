@@ -1,3 +1,9 @@
+
+
+
+![WhatsApp Image 2025-02-28 at 16 13 42_287ebaff](https://github.com/user-attachments/assets/944b3889-b3d2-4788-9ca8-ce66b42c2ac9)
+![WhatsApp Image 2025-02-28 at 16 13 27_30530314](https://github.com/user-attachments/assets/33c9fa46-6aa5-4c97-9d96-2d3327651e25)
+
 1. TITLE OF THE INVENTION 
 GrubOut	Platform	with	Integrated	3D	Projection	Hardware	for	Enhanced	Restaurant	
 Experiences		
